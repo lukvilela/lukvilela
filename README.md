@@ -32,27 +32,9 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lukvilela&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukvilela&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Projeto em Destaque
-
-📊 Sistema de Controle de Presença RDJ  
-✔️ Dashboard com gráficos (Chart.js)  
-✔️ Exportação de PDF  
-✔️ Autenticação e controle de acesso  
-✔️ Deploy com Firebase  
-
----
-
 ## 📫 Contato
 
-📧 (coloque seu email aqui)  
+📧 lukeswysteam@gmail.com  
 🔗 https://github.com/lukvilela  
 
 ---
