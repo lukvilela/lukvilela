@@ -64,7 +64,7 @@ Fora do trabalho: japonês, mangá e uns side-projects que viram desculpa pra te
 
 ## 💼 trabalho profissional
 
-O código que paga as contas roda na conta **[@lukasvilela](https://github.com/lukasvilela)** — sou dev full-stack de uma **plataforma de recrutamento com IA (ATS)** e de ferramentas internas com agentes/LLM. Os repositórios são privados, mas o resumo do que construo está lá. 👉
+O código que paga as contas roda na conta **[@lukasvilela](https://github.com/lukasvilela)** — sou dev full-stack na **Land IT**, atuando em **vários produtos e clientes** (uma plataforma de recrutamento com IA é só um deles): integrações enterprise, agentes/MCP e automações. Repositórios privados; o resumo do que construo está lá. 👉
 
 ---
 
