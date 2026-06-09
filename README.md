@@ -56,6 +56,7 @@ Fora do trabalho: japonês, mangá e uns side-projects que viram desculpa pra te
 | | projeto | o que é |
 | :-: | --- | --- |
 | 🎯 | **[Command Center](https://github.com/lukvilela/command-center)** | Kanban próprio que substitui o Trello: drag-and-drop, sync de PRs/Actions do GitHub, métricas (velocity/lead time) e multi-usuário. Vanilla JS + Netlify Functions, zero build step. |
+| 📈 | **[Ritmo](https://ritmo-44c33.web.app)** | App que transforma metas de estudo em rotina — flashcards, trilhas, gamificação e streaks. React + Firebase. _(demo ao vivo · repo privado)_ |
 | 🏍️ | **[Akira Mangás](https://github.com/lukvilela/manga-store)** | E-commerce cyberpunk de mangás — Next.js 16, 50 rotas, Prisma, testes Playwright. Fullstack do início ao fim. |
 | 🇯🇵 | **[Kanaru](https://github.com/lukvilela/kanaru)** | SaaS freemium pra aprender japonês — Next.js + Firebase. |
 | 🎮 | **[Nihongo Quest](https://github.com/lukvilela/nihongo-game)** | Joguinho em canvas pra treinar hiragana/katakana: XP, combos, missão diária, loja e streak. |
