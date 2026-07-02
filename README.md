@@ -66,11 +66,12 @@ Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
 
 | — | projeto | o que é |
 |:--:|:--|:--|
-| `01` | **[Ritmo](https://github.com/lukvilela/ritmo)** | app de hábitos de estudo — flashcards, trilhas, streaks (React + Firebase) |
-| `02` | **[Akira Mangás](https://github.com/lukvilela)** | e-commerce de mangás — Next.js 16, 50 rotas, Prisma, Playwright |
-| `03` | **[Kanaru](https://github.com/lukvilela)** | SaaS de japonês (freemium) |
-| `04` | **[Nihongo Quest](https://github.com/lukvilela)** | jogo em Canvas de hiragana/katakana — XP, combos, missões diárias |
-| `05` | **[Command Center](https://github.com/lukvilela)** | um "Trello" próprio — kanban, sync de PRs, métricas de velocity/lead time |
+| `01` | **[ecommerce-analytics-br](https://github.com/lukvilela/ecommerce-analytics-br)** | dados end-to-end (Olist) — ETL, EDA, dashboard Streamlit e modelagem Power BI |
+| `02` | **[industrial-ops-analytics](https://github.com/lukvilela/industrial-ops-analytics)** | manutenção preditiva industrial — ML de previsão de falha (AUC 0.97) + simulador de risco |
+| `03` | **[Akira Mangás](https://github.com/lukvilela/manga-store)** | e-commerce cyberpunk de mangás — Next.js 16, Prisma, testes Playwright |
+| `04` | **[Command Center](https://github.com/lukvilela/command-center)** | um "Trello" próprio — kanban, sync de PRs do GitHub, métricas de velocity/lead time |
+| `05` | **[Kanaru](https://github.com/lukvilela/kanaru)** | SaaS freemium pra aprender japonês (Next.js + Firebase) |
+| `06` | **[Violino Dojo](https://github.com/lukvilela/violino-dojo)** | treinador de violino no navegador — partitura (VexFlow), afinador por microfone, XP/SRS |
 
 > 💾 código de produção em **[@lukasvilela](https://github.com/lukasvilela)** — full-stack na Land IT em múltiplos produtos e clientes: plataformas web, sistemas de gestão e operações, dashboards 3D, automações e agentes/MCP · repos privados.
 
