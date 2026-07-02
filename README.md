@@ -107,8 +107,6 @@ Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
 <!-- ═══════════════════════════ 終 · FOOTER ═══════════════════════════ -->
 <div align="center">
 
-<img width="100%" src="assets/nightcam.jpg" alt="footer" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=%E2%AD%90+deixa+uma+estrela;%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%2F%2F+obrigado" alt="thanks" />
 
 </div>
