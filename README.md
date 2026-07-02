@@ -95,9 +95,9 @@ Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
 
 > **静寂の中で。** *seijaku no naka de* — "em meio ao silêncio."
 
-<!-- Spotify "tocando agora" — troque SEU_USUARIO após o setup (rodapé) -->
-<a href="https://open.spotify.com/user/SEU_USUARIO">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USUARIO&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true" alt="spotify" />
+<!-- Spotify "tocando agora" — troque 31q3r4hh2ixq2raa32h5wgstk3pi após o setup (rodapé) -->
+<a href="https://open.spotify.com/user/31q3r4hh2ixq2raa32h5wgstk3pi">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31q3r4hh2ixq2raa32h5wgstk3pi&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true" alt="spotify" />
 </a>
 
 <br clear="left" />
@@ -120,7 +120,7 @@ Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
   2) Suba ESTE README.md + a pasta  assets/  (com as 4 imagens).
      -> os caminhos "assets/xxx.jpg" resolvem sozinhos no perfil.
   3) SPOTIFY: https://spotify-github-profile.kittinanx.com -> login ->
-     copie sua URL -> troque "SEU_USUARIO" no bloco 音楽.
+     copie sua URL -> troque "31q3r4hh2ixq2raa32h5wgstk3pi" no bloco 音楽.
 
   Títulos JP: プロフィール perfil · 技術 skills · 作品 obras ·
               統計 stats · 音楽 música · 終 fim
