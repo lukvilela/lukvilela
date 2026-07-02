@@ -1,79 +1,128 @@
+<!-- ═══════════════════════════ 幕 · BANNER ═══════════════════════════ -->
 <div align="center">
 
-# Lucas Vilela
+<img width="100%" src="assets/banner.jpg" alt="banner" />
 
-**Dev Full-stack · Integração de IA/LLM**
+<!-- título em fonte pixel japonesa, branco -->
+<img src="https://readme-typing-svg.demolab.com?font=DotGothic16&weight=400&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&height=60&lines=%E3%83%AB%E3%83%BC%E3%82%AB%E3%82%B9%E3%83%BB%E3%83%B4%E3%82%A3%E3%83%AC%E3%83%A9" alt="nome" />
 
-`full-stack`  ·  `IA / LLM`  ·  `Barueri, SP`  ·  🎮 🎴
+<!-- subtítulo typewriter -->
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&pause=1200&color=BBBBBB&center=true&vCenter=true&width=620&lines=full-stack+developer+%2F%2F+IA+em+produ%C3%A7%C3%A3o;do+conceito+ao+deploy;%E5%A4%9C%E3%81%AB%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F" alt="subtitle" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lukvilela&label=visitas&color=444444&style=flat-square" />
+<img src="https://img.shields.io/badge/Barueri-SP-111111?style=flat-square&labelColor=111111&color=ffffff" />
+<a href="https://github.com/lukasvilela"><img src="https://img.shields.io/badge/work-@lukasvilela-111111?style=flat-square&labelColor=111111&color=ffffff&logo=github&logoColor=white" /></a>
 
 </div>
 
----
+<!-- ═══════════════════════════ プロフィール · PROFILE ═══════════════════════════ -->
+## 「プロフィール」
 
-## 👋 sobre
+<img align="right" width="230" src="assets/eye.jpg" alt="glitch" />
 
-Sou desenvolvedor **full-stack** — gosto de levar o produto do início ao fim: interface, API, banco, integrações e deploy. Hoje meu foco é **IA/LLM em produção**: análise de currículo e entrevista, agentes e automações em produtos reais.
+> **夜にコードを書く。** *yoru ni kōdo wo kaku* — "escrevo código à noite."
 
-Fora do trabalho: japonês, mangá e uns side-projects que viram desculpa pra testar tecnologia nova. 🍜
+Dev **full-stack** na **Land IT**, atuando em vários produtos e clientes — de plataformas web e sistemas de gestão/operações a dashboards 3D, automações e **IA/LLM em produção** (agentes, integrações, MCP).
 
----
+Trato cada side-project como um experimento: uma tecnologia nova pra domar. Gosto de estética monocromática, glitch e do silêncio de madrugada codando.
 
-## 🛠️ stack
+Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
 
-**Linguagens**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<br clear="right" />
 
-**Front-end**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Back-end & dados**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**IA & integrações**
-![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-
-**Infra & deploy**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloud Run](https://img.shields.io/badge/Cloud%20Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 🌟 projetos em destaque
-
-| | projeto | o que é |
-| :-: | --- | --- |
-| 🎯 | **[Command Center](https://github.com/lukvilela/command-center)** | Kanban próprio que substitui o Trello: drag-and-drop, sync de PRs/Actions do GitHub, métricas (velocity/lead time) e multi-usuário. Vanilla JS + Netlify Functions, zero build step. |
-| 📈 | **[Ritmo](https://ritmo-44c33.web.app)** | App que transforma metas de estudo em rotina — flashcards, trilhas, gamificação e streaks. React + Firebase. _(demo ao vivo · repo privado)_ |
-| 🏍️ | **[Akira Mangás](https://github.com/lukvilela/manga-store)** | E-commerce cyberpunk de mangás — Next.js 16, 50 rotas, Prisma, testes Playwright. Fullstack do início ao fim. |
-| 🇯🇵 | **[Kanaru](https://github.com/lukvilela/kanaru)** | SaaS freemium pra aprender japonês — Next.js + Firebase. |
-| 🎮 | **[Nihongo Quest](https://github.com/lukvilela/nihongo-game)** | Joguinho em canvas pra treinar hiragana/katakana: XP, combos, missão diária, loja e streak. |
-
----
-
-## 💼 trabalho profissional
-
-O código que paga as contas roda na conta **[@lukasvilela](https://github.com/lukasvilela)** — sou dev full-stack na **Land IT**, atuando em **vários produtos e clientes** (uma plataforma de recrutamento com IA é só um deles): integrações enterprise, agentes/MCP e automações. Repositórios privados; o resumo do que construo está lá. 👉
-
----
+<!-- ═══════════════════════════ 技術 · STACK ═══════════════════════════ -->
+## 「技術」
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/@lukvilela-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukvilela)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukeswysteam@gmail.com)
-
-<sub>🪙 insira uma moeda pra continuar — sempre tem um próximo commit.</sub>
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-111111?style=flat-square&logo=tailwindcss&logoColor=white)
+<br>
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
+<br>
+![Gemini](https://img.shields.io/badge/Gemini-111111?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-111111?style=flat-square&logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
+
+<!-- ═══════════════════════════ 作品 · WORKS ═══════════════════════════ -->
+## 「作品」
+
+> **作りながら学ぶ。** *tsukurinagara manabu* — "aprender construindo."
+
+| — | projeto | o que é |
+|:--:|:--|:--|
+| `01` | **[Ritmo](https://github.com/lukvilela/ritmo)** | app de hábitos de estudo — flashcards, trilhas, streaks (React + Firebase) |
+| `02` | **[Akira Mangás](https://github.com/lukvilela)** | e-commerce de mangás — Next.js 16, 50 rotas, Prisma, Playwright |
+| `03` | **[Kanaru](https://github.com/lukvilela)** | SaaS de japonês (freemium) |
+| `04` | **[Nihongo Quest](https://github.com/lukvilela)** | jogo em Canvas de hiragana/katakana — XP, combos, missões diárias |
+| `05` | **[Command Center](https://github.com/lukvilela)** | um "Trello" próprio — kanban, sync de PRs, métricas de velocity/lead time |
+
+> 💾 código de produção em **[@lukasvilela](https://github.com/lukasvilela)** — full-stack na Land IT em múltiplos produtos e clientes: plataformas web, sistemas de gestão e operações, dashboards 3D, automações e agentes/MCP · repos privados.
+
+<!-- ═══════════════════════════ 統計 · STATS ═══════════════════════════ -->
+## 「統計」
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=lukvilela&show_icons=true&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=lukvilela&hide_border=true&background=0d0d0d&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&sideNums=ffffff&currStreakNum=ffffff" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukvilela&layout=compact&hide_border=true&langs_count=8&bg_color=0d0d0d&title_color=ffffff&text_color=ffffff" />
+
+</div>
+
+<!-- ═══════════════════════════ 音楽 · SOUNDTRACK ═══════════════════════════ -->
+## 「音楽」
+
+<div align="center">
+
+<img align="left" width="150" src="assets/cat.jpg" alt="cat" />
+
+> **静寂の中で。** *seijaku no naka de* — "em meio ao silêncio."
+
+<!-- Spotify "tocando agora" — troque SEU_USUARIO após o setup (rodapé) -->
+<a href="https://open.spotify.com/user/SEU_USUARIO">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USUARIO&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true" alt="spotify" />
+</a>
+
+<br clear="left" />
+
+</div>
+
+<!-- ═══════════════════════════ 終 · FOOTER ═══════════════════════════ -->
+<div align="center">
+
+<img width="100%" src="assets/nightcam.jpg" alt="footer" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=420&lines=%E2%AD%90+deixa+uma+estrela;%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86+%2F%2F+obrigado" alt="thanks" />
+
+</div>
+
+<!--
+════════════════════════════════════════════════════════════════
+  COMO PUBLICAR:
+  1) Crie o repo  lukvilela/lukvilela  (mesmo nome do usuário).
+  2) Suba ESTE README.md + a pasta  assets/  (com as 4 imagens).
+     -> os caminhos "assets/xxx.jpg" resolvem sozinhos no perfil.
+  3) SPOTIFY: https://spotify-github-profile.kittinanx.com -> login ->
+     copie sua URL -> troque "SEU_USUARIO" no bloco 音楽.
+
+  Títulos JP: プロフィール perfil · 技術 skills · 作品 obras ·
+              統計 stats · 音楽 música · 終 fim
+════════════════════════════════════════════════════════════════
+-->
