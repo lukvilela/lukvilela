@@ -11,6 +11,11 @@
 
 <br>
 
+<a href="https://portfolio-jet-xi-82.vercel.app"><img src="https://img.shields.io/badge/portf%C3%B3lio-live-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=ffffff&logo=vercel&logoColor=white" alt="portfólio" /></a>
+<a href="https://linkedin.com/in/britovilela"><img src="https://img.shields.io/badge/linkedin-britovilela-0d0d0d?style=for-the-badge&labelColor=0d0d0d&color=ffffff&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=lukvilela&label=visitas&color=444444&style=flat-square" />
 <img src="https://img.shields.io/badge/Barueri-SP-111111?style=flat-square&labelColor=111111&color=ffffff" />
 <a href="https://github.com/lukasvilela"><img src="https://img.shields.io/badge/work-@lukasvilela-111111?style=flat-square&labelColor=111111&color=ffffff&logo=github&logoColor=white" /></a>
