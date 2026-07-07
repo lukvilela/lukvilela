@@ -29,7 +29,7 @@
 
 > **夜にコードを書く。** *yoru ni kōdo wo kaku* — "escrevo código à noite."
 
-Dev **full-stack** na **Land IT**, atuando em vários produtos e clientes — de plataformas web e sistemas de gestão/operações a dashboards 3D, automações e **IA/LLM em produção** (agentes, integrações, MCP).
+Dev **full-stack**, atuando em vários produtos — de plataformas web e sistemas de gestão/operações a dashboards 3D, automações e **IA/LLM em produção** (agentes, integrações, MCP).
 
 Trato cada side-project como um experimento: uma tecnologia nova pra domar. Gosto de estética monocromática, glitch e do silêncio de madrugada codando.
 
@@ -78,7 +78,7 @@ Do conceito ao deploy — **se não roda pro usuário, não tá pronto.**
 | `05` | **[Kanaru](https://github.com/lukvilela/kanaru)** | SaaS freemium pra aprender japonês (Next.js + Firebase) |
 | `06` | **[Violino Dojo](https://github.com/lukvilela/violino-dojo)** | treinador de violino no navegador — partitura (VexFlow), afinador por microfone, XP/SRS |
 
-> 💾 código de produção em **[@lukasvilela](https://github.com/lukasvilela)** — full-stack na Land IT em múltiplos produtos e clientes: plataformas web, sistemas de gestão e operações, dashboards 3D, automações e agentes/MCP · repos privados.
+> 💾 mais código em **[@lukasvilela](https://github.com/lukasvilela)** — múltiplos produtos: plataformas web, sistemas de gestão e operações, dashboards 3D, automações e agentes/MCP · repos privados.
 
 <!-- ═══════════════════════════ 統計 · STATS ═══════════════════════════ -->
 ## 「統計」
